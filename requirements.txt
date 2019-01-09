@@ -1,6 +1,11 @@
 pandas
 numpy
+plotly
+matplotlib
 scipy
 sklearn
 tensorflow
 seaborn
+warnings
+json
+warning
