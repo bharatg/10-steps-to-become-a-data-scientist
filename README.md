@@ -1,4 +1,5 @@
  <div align="center">
+ [![Binder with JupyterLab](https://img.shields.io/badge/launch-jupyterlab_on_binder-red.svg)](https://github.com/bharatg/10-steps-to-become-a-data-scientist?urlpath=lab)
  
  # 📢 10 Steps to Become a Data Scientist
  ### 💻💾📓✒📊
