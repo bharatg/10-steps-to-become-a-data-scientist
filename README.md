@@ -1,6 +1,8 @@
+[![Binder with JupyterLab](https://img.shields.io/badge/launch-jupyterlab_on_binder-red.svg)](https://mybinder.org/v2/gh/bharatg/10-steps-to-become-a-data-scientist/master?urlpath=lab)
+ 
+ 
  <div align="center">
  
- [![Binder with JupyterLab](https://img.shields.io/badge/launch-jupyterlab_on_binder-red.svg)](https://mybinder.org/v2/gh/bharatg/10-steps-to-become-a-data-scientist/master?urlpath=lab)
  
  # 📢 10 Steps to Become a Data Scientist
  ### 💻💾📓✒📊
