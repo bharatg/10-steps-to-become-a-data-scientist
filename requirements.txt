@@ -4,6 +4,5 @@ plotly
 matplotlib
 scipy
 sklearn
-tensorflow
 seaborn
 json
