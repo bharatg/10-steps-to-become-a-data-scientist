@@ -6,5 +6,4 @@ scipy
 sklearn
 tensorflow
 seaborn
-warnings
 json
